@@ -1,0 +1,4 @@
+com\crud\springcrudcloud\controller\ContactController.class
+com\crud\springcrudcloud\dao\ContactRepository.class
+com\crud\springcrudcloud\model\Contact.class
+com\crud\springcrudcloud\SpringCrudCloudApplication.class
